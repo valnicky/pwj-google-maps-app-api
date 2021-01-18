@@ -1,0 +1,6013 @@
+[{
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "9973-98128",
+    "id": "9504",
+    "name": "1st & Los Angeles (Doubletree)",
+    "phoneNumber": "213-687-9849",
+    "coordinates": {
+        "latitude": 34.050864,
+        "longitude": -118.242203
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "120 S. Los Angeles Street",
+        "streetAddressLine2": "#110",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900123724"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 8:00 PM",
+    "warnings": [],
+    "addressLines": ["120 S. Los Angeles Street", "#110", "Los Angeles, CA 90012"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "6:00 AM to 3:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "1st-los-angeles-doubletree-120-s-los-angeles-street-los-angeles-ca-900123724-"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "27702-248365",
+    "id": "1015889",
+    "name": "2nd & San Pedro",
+    "phoneNumber": "(213) 266-1207",
+    "coordinates": {
+        "latitude": 34.049327,
+        "longitude": -118.242036
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "232 East 2nd Street",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900124082"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 8:00 PM",
+    "warnings": [],
+    "addressLines": ["232 East 2nd Street", "Los Angeles, CA 90012"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "SQ",
+        "name": "tbd"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "CS",
+        "name": "tbd - Coffee Scale"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "2nd-san-pedro-232-east-2nd-street-los-angeles-ca-900124082-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "9230-154245",
+    "id": "69543",
+    "name": "Grand & 1st (Grand Park)",
+    "phoneNumber": "(213) 625-2205",
+    "coordinates": {
+        "latitude": 34.056126,
+        "longitude": -118.246984
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "217 N. Hill Street",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900122705"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 7:00 PM",
+    "warnings": [],
+    "addressLines": ["217 N. Hill Street", "Los Angeles, CA 90012"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 11-14 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "6:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "6:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "6:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "6:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "6:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "6:00 AM to 4:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "Closed",
+        "open": false,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "grand-1st-grand-park-217-n-hill-street-los-angeles-ca-900122705-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "6557-65159",
+    "id": "11382",
+    "name": "2nd & Central",
+    "phoneNumber": "213-613-0393",
+    "coordinates": {
+        "latitude": 34.047996,
+        "longitude": -118.23902
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "138 S. Central Avenue",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Office Depot Center",
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900123913"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 8:00 PM",
+    "warnings": [],
+    "addressLines": ["138 S. Central Avenue", "Los Angeles, CA 90012"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 7-10 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "6:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "2nd-central-138-s-central-avenue-office-depot-center-los-angel"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "5289-886",
+    "id": "16708",
+    "name": "Two Cal Plaza",
+    "phoneNumber": "(213) 626-0466",
+    "coordinates": {
+        "latitude": 34.051652,
+        "longitude": -118.251546
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "350 South Grand Avenue",
+        "streetAddressLine2": "Suite #B-5",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900713406"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 5:30 PM",
+    "warnings": [],
+    "addressLines": ["350 South Grand Avenue", "Suite #B-5", "Los Angeles, CA 90071"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:30 AM to 5:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:30 AM to 5:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:30 AM to 5:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:30 AM to 5:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:30 AM to 5:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "Closed",
+        "open": false,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "Closed",
+        "open": false,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }],
+    "slug": "two-cal-plaza-350-south-grand-avenue-los-angeles-ca-900713406-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "19883-190684",
+    "id": "1007141",
+    "name": "Cesar Chavez & Broadway",
+    "phoneNumber": "213-680-7825",
+    "coordinates": {
+        "latitude": 34.058795,
+        "longitude": -118.240347
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "639 N Broadway",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900124500"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 5:00 PM",
+    "warnings": [],
+    "addressLines": ["639 N Broadway", "Los Angeles, CA 90012"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:30 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:30 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:30 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:30 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:30 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "4:30 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "4:30 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "SQ",
+        "name": "tbd"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "cesar-chavez-broadway-639-n-broadway-los-angeles-ca-900124500-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "15062-155325",
+    "id": "20070",
+    "name": "Dwntn LA Union Station Main Concrse",
+    "phoneNumber": "213-621-2862",
+    "coordinates": {
+        "latitude": 34.056059,
+        "longitude": -118.235776
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "800 N. Alameda Street",
+        "streetAddressLine2": "S2",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900122177"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 6:00 PM",
+    "warnings": [],
+    "addressLines": ["800 N. Alameda Street", "S2", "Los Angeles, CA 90012"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "8:00 AM to 3:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "8:00 AM to 3:30 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }],
+    "slug": "dwntn-la-union-station-main-concrse-800-n-alameda-street-los-angeles-ca-900122177-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "9227-159869",
+    "id": "89974",
+    "name": "BankAmerica - lower lvl (3rd&Hope)",
+    "phoneNumber": "2136214191",
+    "coordinates": {
+        "latitude": 34.05338,
+        "longitude": -118.253479
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "333 South Hope Street",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900711406"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": null,
+    "openStatusText": "",
+    "warnings": null,
+    "addressLines": ["333 South Hope Street", "Los Angeles, CA 90071"],
+    "mop": {
+        "ready": false,
+        "wait": "Prep time: 6-9 min"
+    },
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }],
+    "slug": "bank-america-lower-lvl-3rd-hope-333-south-hope-street-los-angeles-ca-900711406-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "9234-262184",
+    "id": "1017881",
+    "name": "Grand & 5th Gas Co Tower",
+    "phoneNumber": "2138197063",
+    "coordinates": {
+        "latitude": 34.05019,
+        "longitude": -118.253646
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "555 West 5th Street",
+        "streetAddressLine2": "CC56",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900131010"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 6:00 PM",
+    "warnings": [],
+    "addressLines": ["555 West 5th Street", "CC56", "Los Angeles, CA 90013"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "Closed",
+        "open": false,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "Closed",
+        "open": false,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "grand-5th-gas-co-tower-555-west-5th-street-los-angeles-ca-900131010-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "17989-179004",
+    "id": "91231",
+    "name": "6th & Spring",
+    "phoneNumber": "213-623-2751",
+    "coordinates": {
+        "latitude": 34.045882,
+        "longitude": -118.251286
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "603 S. Spring Street",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900141902"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 5:00 PM",
+    "warnings": [],
+    "addressLines": ["603 S. Spring Street", "Los Angeles, CA 90014"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "6th-spring-603-s-spring-street-los-angeles-ca-900141902-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "5291-794",
+    "id": "15990",
+    "name": "5th & Flower (Citibank)",
+    "phoneNumber": "(213) 622-4493",
+    "coordinates": {
+        "latitude": 34.051427,
+        "longitude": -118.255319
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "444 South Flower Street",
+        "streetAddressLine2": "Suite #170",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900712901"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 6:00 PM",
+    "warnings": [],
+    "addressLines": ["444 South Flower Street", "Suite #170", "Los Angeles, CA 90071"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "Closed",
+        "open": false,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "Closed",
+        "open": false,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "5th-flower-citibank-444-south-flower-street-los-angeles-ca-900712901-u"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "11233-104456",
+    "id": "17753",
+    "name": "6th & Grand",
+    "phoneNumber": "213-327-0208",
+    "coordinates": {
+        "latitude": 34.048767,
+        "longitude": -118.255048
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "523 West 6th Street",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900141217"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 8:00 PM",
+    "warnings": [],
+    "addressLines": ["523 West 6th Street", "Los Angeles, CA 90014"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "6th-grand-523-west-6th-street-los-angeles-ca-900141217-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "5284-718",
+    "id": "15892",
+    "name": "CityNatPlz - lower lvl (6th&Flower)",
+    "phoneNumber": "(213) 488-9049",
+    "coordinates": {
+        "latitude": 34.050606,
+        "longitude": -118.257392
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "505 S. Flower Street",
+        "streetAddressLine2": "Suite #B-13",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900712101"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": false,
+    "openStatusText": "Closed",
+    "warnings": ["Store closed"],
+    "addressLines": ["505 S. Flower Street", "Suite #B-13", "Los Angeles, CA 90071"],
+    "mop": {
+        "ready": false,
+        "wait": "Prep time: 9-12 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "Closed",
+        "open": false,
+        "holiday": "Martin Luther King Day"
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "7:30 AM to 3:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "7:30 AM to 3:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "7:30 AM to 3:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "7:30 AM to 3:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "Closed",
+        "open": false,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "Closed",
+        "open": false,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }],
+    "slug": "city-nat-plz-lower-lvl-6th-flower-505-s-flower-street-los-angeles-ca-900712101-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "24164-236345",
+    "id": "1009777",
+    "name": "7th & Hope (The Bloc)",
+    "phoneNumber": "213-200-8397",
+    "coordinates": {
+        "latitude": 34.048187,
+        "longitude": -118.258288
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "700 W. 7th Street",
+        "streetAddressLine2": "GL320",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900173768"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 8:30 PM",
+    "warnings": [],
+    "addressLines": ["700 W. 7th Street", "GL320", "Los Angeles, CA 90017"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:30 AM to 8:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:30 AM to 8:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:30 AM to 8:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:30 AM to 8:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:30 AM to 8:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:30 AM to 8:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "5:30 AM to 8:30 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "7th-hope-the-bloc-700-w-7th-street-los-angeles-ca-900173768-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "55102-286582",
+    "id": "1023116",
+    "name": "8th & Olive",
+    "phoneNumber": "2136277613",
+    "coordinates": {
+        "latitude": 34.045104,
+        "longitude": -118.257148
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "801 S. Olive St.",
+        "streetAddressLine2": "Suite A",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900143010"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 6:00 PM",
+    "warnings": [],
+    "addressLines": ["801 S. Olive St.", "Suite A", "Los Angeles, CA 90014"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "WX",
+        "name": "After Hours WiFi"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "CS",
+        "name": "tbd - Coffee Scale"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "8th-olive-801-s-olive-st-los-angeles-ca-900143010-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "6577-66220",
+    "id": "8888",
+    "name": "Figueroa & 7th (FIGat7th)",
+    "phoneNumber": "213-488-9902",
+    "coordinates": {
+        "latitude": 34.049185,
+        "longitude": -118.260499
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "735 S. Figueroa Street",
+        "streetAddressLine2": "#308",
+        "streetAddressLine3": "Ernst & Young Plaza",
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900172571"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 6:00 PM",
+    "warnings": [],
+    "addressLines": ["735 S. Figueroa Street", "#308", "Los Angeles, CA 90017"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }],
+    "slug": "figueroa-7th-fi-gat-7th-735-s-figueroa-street-ernst-young-plaza-los-angele"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "6608-65303",
+    "id": "11795",
+    "name": "9th & Santee",
+    "phoneNumber": "213-489-0913",
+    "coordinates": {
+        "latitude": 34.039857,
+        "longitude": -118.253353
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "300 E. 9th Street",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Fashion District",
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900151802"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 6:00 PM",
+    "warnings": [],
+    "addressLines": ["300 E. 9th Street", "Los Angeles, CA 90015"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 7-10 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "9th-santee-300-e-9th-street-fashion-district-los-angeles-ca-9"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "16281-166729",
+    "id": "91889",
+    "name": "Target LA Central T-2776",
+    "phoneNumber": "213-330-4543",
+    "coordinates": {
+        "latitude": 34.04901,
+        "longitude": -118.261176
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "735 S Figueroa St",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900172571"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 9:00 PM",
+    "warnings": ["Mobile order unavailable"],
+    "addressLines": ["735 S Figueroa St", "Los Angeles, CA 90017"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "7:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "7:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "7:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "7:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "7:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "8:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "7:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }],
+    "slug": "target-la-central-t-2776-735-s-figueroa-st-los-angeles-ca-900172571-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "17331-172467",
+    "id": "89075",
+    "name": "9th & Flower",
+    "phoneNumber": "213-239-9713",
+    "coordinates": {
+        "latitude": 34.045488,
+        "longitude": -118.261393
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "600 West 9th Street",
+        "streetAddressLine2": "135",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900154301"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 6:00 PM",
+    "warnings": [],
+    "addressLines": ["600 West 9th Street", "135", "Los Angeles, CA 90015"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "5:30 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "9th-flower-600-west-9th-street-los-angeles-ca-900154301-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "49792-271151",
+    "id": "1019487",
+    "name": "6th & Bixel",
+    "phoneNumber": "213-500-8552",
+    "coordinates": {
+        "latitude": 34.054212,
+        "longitude": -118.26304
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "1120 W. 6th St.",
+        "streetAddressLine2": "102",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900174905"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 6:00 PM",
+    "warnings": [],
+    "addressLines": ["1120 W. 6th St.", "102", "Los Angeles, CA 90017"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "SQ",
+        "name": "tbd"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "CS",
+        "name": "tbd - Coffee Scale"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }],
+    "slug": "6th-bixel-1120-w-6th-st-los-angeles-ca-900174905-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "10586-101074",
+    "id": "14637",
+    "name": "Wilshire & Bixel",
+    "phoneNumber": "213-250-8291",
+    "coordinates": {
+        "latitude": 34.052078,
+        "longitude": -118.26327
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "1090 Wilshire Blvd.",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900172416"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 6:00 PM",
+    "warnings": [],
+    "addressLines": ["1090 Wilshire Blvd.", "Los Angeles, CA 90017"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "wilshire-bixel-1090-wilshire-blvd-los-angeles-ca-900172416-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "10939-100965",
+    "id": "10036",
+    "name": "11th & Grand",
+    "phoneNumber": "2137491751",
+    "coordinates": {
+        "latitude": 34.04152,
+        "longitude": -118.262318
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "1111 South Grand Avenue",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Elleven Condominium",
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900152176"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 8:00 PM",
+    "warnings": [],
+    "addressLines": ["1111 South Grand Avenue", "Los Angeles, CA 90015"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "5:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "11-th-grand-1111-south-grand-avenue-elleven-condominium-los-an"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "13222-106449",
+    "id": "18659",
+    "name": "Olympic & Figueroa (LA LIVE)",
+    "phoneNumber": "213-748-1009",
+    "coordinates": {
+        "latitude": 34.044652,
+        "longitude": -118.266074
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "800 W. Olympic Blvd.",
+        "streetAddressLine2": "102",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900151360"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 2:00 PM",
+    "warnings": [],
+    "addressLines": ["800 W. Olympic Blvd.", "102", "Los Angeles, CA 90015"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "7:00 AM to 2:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "7:00 AM to 2:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "7:00 AM to 2:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "7:00 AM to 2:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "7:00 AM to 2:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "7:00 AM to 2:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "Closed",
+        "open": false,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "SN",
+        "name": "tbd - Null Program Description"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "olympic-figueroa-la-live-800-w-olympic-blvd-los-angeles-ca-900151360-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "48339-262504",
+    "id": "1017891",
+    "name": "Pico & Grand",
+    "phoneNumber": "213 7447978",
+    "coordinates": {
+        "latitude": 34.039146,
+        "longitude": -118.264436
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "1251 S. Grand Ave.",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900152105"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 7:00 PM",
+    "warnings": [],
+    "addressLines": ["1251 S. Grand Ave.", "Los Angeles, CA 90015"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "pico-grand-1251-s-grand-ave-los-angeles-ca-900152105-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "6688-75720",
+    "id": "11305",
+    "name": "Wilshire & Union",
+    "phoneNumber": "213-484-0958",
+    "coordinates": {
+        "latitude": 34.055731,
+        "longitude": -118.270301
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "1601 Wilshire Blvd",
+        "streetAddressLine2": null,
+        "streetAddressLine3": "Wilshire Union Center",
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900171610"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 8:00 PM",
+    "warnings": [],
+    "addressLines": ["1601 Wilshire Blvd", "Los Angeles, CA 90017"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 8-11 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "5:30 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "wilshire-union-1601-wilshire-blvd-wilshire-union-center-los-angel"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "50498-273104",
+    "id": "1023630",
+    "name": "Alvarado & 3rd",
+    "phoneNumber": "2134341379",
+    "coordinates": {
+        "latitude": 34.063045,
+        "longitude": -118.272333
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "230 S. Alvarado",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900572306"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 12:00 AM",
+    "warnings": [],
+    "addressLines": ["230 S. Alvarado", "Los Angeles, CA 90057"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "6:00 AM to 10:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "7:00 AM to 10:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "DT",
+        "name": "Drive-Thru"
+    }, {
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }],
+    "slug": "alvarado-3rd-230-s-alvarado-los-angeles-ca-900572306-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "26328-243763",
+    "id": "1015759",
+    "name": "Alameda & 14th",
+    "phoneNumber": "213-334-9270",
+    "coordinates": {
+        "latitude": 34.025341,
+        "longitude": -118.239853
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "1401 Alameda St",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900212425"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 11:30 PM",
+    "warnings": [],
+    "addressLines": ["1401 Alameda St", "Los Angeles, CA 90021"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:30 AM to 11:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:30 AM to 11:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:30 AM to 11:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:30 AM to 11:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:30 AM to 11:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "4:30 AM to 11:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "4:30 AM to 11:30 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "hrs24",
+        "name": "Open 24 hours per day",
+        "filterable": true,
+        "public": true,
+        "category": "Store Hours"
+    }, {
+        "code": "DT",
+        "name": "Drive-Thru"
+    }, {
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "CS",
+        "name": "tbd - Coffee Scale"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "alameda-14th-1401-alameda-st-los-angeles-ca-900212425-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "53657-285900",
+    "id": "1021346",
+    "name": "Sunset Blvd & Mohawk",
+    "phoneNumber": "2134315969",
+    "coordinates": {
+        "latitude": 34.077233,
+        "longitude": -118.264892
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "2134 W. Sunset Blvd.",
+        "streetAddressLine2": "G",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900261695"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 8:00 PM",
+    "warnings": [],
+    "addressLines": ["2134 W. Sunset Blvd.", "G", "Los Angeles, CA 90026"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "CL",
+        "name": "Starbucks Reserve-Clover Brewed"
+    }, {
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "CS",
+        "name": "tbd - Coffee Scale"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "sunset-blvd-mohawk-2134-w-sunset-blvd-los-angeles-ca-900261695-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "52746-282266",
+    "id": "1028237",
+    "name": "Glendale & Montana",
+    "phoneNumber": "2134843848",
+    "coordinates": {
+        "latitude": 34.079821,
+        "longitude": -118.259857
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "1400 Glendale Blvd",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900262429"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 11:00 PM",
+    "warnings": [],
+    "addressLines": ["1400 Glendale Blvd", "Los Angeles, CA 90026"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "DT",
+        "name": "Drive-Thru"
+    }, {
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }],
+    "slug": "glendale-montana-1400-glendale-blvd-los-angeles-ca-900262429-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "13045-153025",
+    "id": "19140",
+    "name": "Health Science Campus - USC",
+    "phoneNumber": "323-442-1943",
+    "coordinates": {
+        "latitude": 34.060608,
+        "longitude": -118.205674
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "1969 Zonal Ave",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900335422"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 4:00 PM",
+    "warnings": ["Mobile order unavailable"],
+    "addressLines": ["1969 Zonal Ave", "Los Angeles, CA 90033"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "6:30 AM to 4:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "6:30 AM to 4:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "6:30 AM to 4:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "6:30 AM to 4:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "6:30 AM to 4:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "Closed",
+        "open": false,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "Closed",
+        "open": false,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "BA",
+        "name": "Bakery"
+    }],
+    "slug": "health-science-campus-usc-1969-zonal-ave-los-angeles-ca-900335422-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "51056-275764",
+    "id": "1019687",
+    "name": "Marengo & Cornwell",
+    "phoneNumber": "213-328-8499",
+    "coordinates": {
+        "latitude": 34.055688,
+        "longitude": -118.20455
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "1106 Cornwell Street",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900331415"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "temporarilyOffline"
+    },
+    "open": true,
+    "openStatusText": "Open until 12:00 AM",
+    "warnings": [],
+    "addressLines": ["1106 Cornwell Street", "Los Angeles, CA 90033"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "CX",
+        "name": "Curbside"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "17",
+        "name": "Outdoor"
+    }, {
+        "code": "DT",
+        "name": "Drive-Thru"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "CS",
+        "name": "tbd - Coffee Scale"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "marengo-cornwell-1106-cornwell-street-los-angeles-ca-900331415-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "22477-221164",
+    "id": "1007345",
+    "name": "Olympic & Soto",
+    "phoneNumber": "323-265-3457",
+    "coordinates": {
+        "latitude": 34.0247,
+        "longitude": -118.2202
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "2675 E Olympic Blvd",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900232607"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 12:00 AM",
+    "warnings": [],
+    "addressLines": ["2675 E Olympic Blvd", "Los Angeles, CA 90023"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:00 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:00 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:00 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:00 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:00 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "4:00 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "DT",
+        "name": "Drive-Thru"
+    }, {
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "olympic-soto-2675-e-olympic-blvd-los-angeles-ca-900232607-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "29377-252209",
+    "id": "1015136",
+    "name": "6th & Occidental",
+    "phoneNumber": "213-215-4691",
+    "coordinates": {
+        "latitude": 34.063792,
+        "longitude": -118.283948
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "534 S. Occidental",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900571502"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 6:00 PM",
+    "warnings": [],
+    "addressLines": ["534 S. Occidental", "Los Angeles, CA 90057"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "5:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "SQ",
+        "name": "tbd"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "6th-occidental-534-s-occidental-los-angeles-ca-900571502-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "51529-252466",
+    "id": "1021728",
+    "name": "Target Express La K-Town",
+    "phoneNumber": null,
+    "coordinates": {
+        "latitude": 34.063556,
+        "longitude": -118.285877
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "620 S. Virgil Ave.",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "90020"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 9:00 PM",
+    "warnings": ["Mobile order unavailable"],
+    "addressLines": ["620 S. Virgil Ave.", "Los Angeles, CA 90020"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "7:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "7:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "7:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "7:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "7:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "7:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "7:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }],
+    "slug": "target-express-la-k-town-620-s-virgil-ave-los-angeles-ca-90020-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "24005-234864",
+    "id": "1009663",
+    "name": "Figueroa & 28th",
+    "phoneNumber": "213-618-5477",
+    "coordinates": {
+        "latitude": 34.026426,
+        "longitude": -118.277509
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "2735 S. Figueroa St.",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900073256"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 1:00 AM",
+    "warnings": [],
+    "addressLines": ["2735 S. Figueroa St.", "Los Angeles, CA 90007"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:30 AM to 1:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:30 AM to 1:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:30 AM to 1:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:30 AM to 1:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:30 AM to 1:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "4:30 AM to 1:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "4:30 AM to 1:00 AM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "DT",
+        "name": "Drive-Thru"
+    }, {
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }],
+    "slug": "figueroa-28th-2735-s-figueroa-st-los-angeles-ca-900073256-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "55230-286642",
+    "id": "1022915",
+    "name": "Figueroa & Cypress",
+    "phoneNumber": "(213) 9997901",
+    "coordinates": {
+        "latitude": 34.086461,
+        "longitude": -118.21944
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "3241 N Figueroa Street",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900651525"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 2:30 PM",
+    "warnings": [],
+    "addressLines": ["3241 N Figueroa Street", "Los Angeles, CA 90065"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "7:30 AM to 2:30 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:00 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "5:00 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "DT",
+        "name": "Drive-Thru"
+    }, {
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "WX",
+        "name": "After Hours WiFi"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "CS",
+        "name": "tbd - Coffee Scale"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }],
+    "slug": "figueroa-cypress-3241-n-figueroa-street-los-angeles-ca-900651525-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "52257-281105",
+    "id": "1022177",
+    "name": "Figueroa & 31st",
+    "phoneNumber": "(213) 7450384",
+    "coordinates": {
+        "latitude": 34.024127,
+        "longitude": -118.278189
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "3026 S Figueroa St",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900073711"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 11:00 PM",
+    "warnings": [],
+    "addressLines": ["3026 S Figueroa St", "Los Angeles, CA 90007"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:00 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "4:30 AM to 11:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "DT",
+        "name": "Drive-Thru"
+    }, {
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "SQ",
+        "name": "tbd"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "CS",
+        "name": "tbd - Coffee Scale"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "figueroa-31st-3026-s-figueroa-st-los-angeles-ca-900073711-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "22525-213345",
+    "id": "1007346",
+    "name": "Vermont & Wilshire",
+    "phoneNumber": "213-384-3578",
+    "coordinates": {
+        "latitude": 34.061517,
+        "longitude": -118.291249
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "3150 Wilshire Blvd",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900101305"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 6:00 PM",
+    "warnings": [],
+    "addressLines": ["3150 Wilshire Blvd", "Los Angeles, CA 90010"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "7:00 AM to 2:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "7:00 AM to 2:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "SQ",
+        "name": "tbd"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "CS",
+        "name": "tbd - Coffee Scale"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "vermont-wilshire-3150-wilshire-blvd-los-angeles-ca-900101305-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "49345-258945",
+    "id": "1016837",
+    "name": "Ralphs Los Angeles #32",
+    "phoneNumber": "213-480-1421",
+    "coordinates": {
+        "latitude": 34.068519,
+        "longitude": -118.290445
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "3410 W 3rd Street",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "90020"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 9:00 PM",
+    "warnings": ["Mobile order unavailable"],
+    "addressLines": ["3410 W 3rd Street", "Los Angeles, CA 90020"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }],
+    "slug": "ralphs-los-angeles-32-3410-w-3rd-street-los-angeles-ca-90020-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "74543-52099",
+    "id": "8885",
+    "name": "Vons-Los Angeles #2261",
+    "phoneNumber": "2133846552",
+    "coordinates": {
+        "latitude": 34.06982,
+        "longitude": -118.290756
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "3461 W 3rd St",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900201604"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 7:00 PM",
+    "warnings": ["Mobile order unavailable"],
+    "addressLines": ["3461 W 3rd St", "Los Angeles, CA 90020"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "6:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "6:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "6:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "6:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "6:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "6:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "6:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "BA",
+        "name": "Bakery"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }],
+    "slug": "vons-los-angeles-2261-3461-w-3rd-st-los-angeles-ca-900201604-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "50535-266989",
+    "id": "1019201",
+    "name": "Target Express Usc T-3217",
+    "phoneNumber": "2132753149",
+    "coordinates": {
+        "latitude": 34.025759,
+        "longitude": -118.284313
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "3131 S Hoover St",
+        "streetAddressLine2": "Unit 9-A",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "90089"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 9:00 PM",
+    "warnings": ["Mobile order unavailable"],
+    "addressLines": ["3131 S Hoover St", "Unit 9-A", "Los Angeles, CA 90089"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "8:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "8:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "8:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "8:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "8:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "8:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "8:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }],
+    "slug": "target-express-usc-t-3217-3131-s-hoover-st-los-angeles-ca-90089-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "25043-237829",
+    "id": "1019324",
+    "name": "USC Village",
+    "phoneNumber": "2134601662",
+    "coordinates": {
+        "latitude": 34.024627,
+        "longitude": -118.284308
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "3201 S. Hoover St.",
+        "streetAddressLine2": "1820",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900893545"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 6:00 PM",
+    "warnings": [],
+    "addressLines": ["3201 S. Hoover St.", "1820", "Los Angeles, CA 90089"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "7:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "7:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "7:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "7:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "7:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "7:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "7:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "CS",
+        "name": "tbd - Coffee Scale"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "usc-village-3201-s-hoover-st-los-angeles-ca-900893545-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "58623-292831",
+    "id": "1026193",
+    "name": "Vermont & West 2nd",
+    "phoneNumber": "213 8089736",
+    "coordinates": {
+        "latitude": 34.070657,
+        "longitude": -118.291898
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "181 S. Vermont",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900045904"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 12:00 AM",
+    "warnings": [],
+    "addressLines": ["181 S. Vermont", "Los Angeles, CA 90004"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "DT",
+        "name": "Drive-Thru"
+    }, {
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "CS",
+        "name": "tbd - Coffee Scale"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "vermont-west-2nd-181-s-vermont-los-angeles-ca-900045904-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "25965-240704",
+    "id": "1025634",
+    "name": "Ralphs - Los Angeles #294",
+    "phoneNumber": "3237323863",
+    "coordinates": {
+        "latitude": 34.031819,
+        "longitude": -118.290778
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "2600 South Vermont",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "90007"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 9:00 PM",
+    "warnings": ["Mobile order unavailable"],
+    "addressLines": ["2600 South Vermont", "Los Angeles, CA 90007"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "5:00 AM to 9:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }],
+    "slug": "ralphs-los-angeles-294-2600-south-vermont-los-angeles-ca-90007-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "15244-113064",
+    "id": "90142",
+    "name": "Trojan Grounds @ USC",
+    "phoneNumber": "2137407848",
+    "coordinates": {
+        "latitude": 34.021676,
+        "longitude": -118.282181
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "642 W 34th St",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "90007"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "LS",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 7:00 PM",
+    "warnings": ["Mobile order unavailable"],
+    "addressLines": ["642 W 34th St", "Los Angeles, CA 90007"],
+    "mop": {
+        "ready": false,
+        "wait": null
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "7:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "7:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "7:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "7:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "7:00 AM to 7:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "7:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "7:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }],
+    "slug": "trojan-grounds-usc-642-w-34th-st-los-angeles-ca-90007-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "54501-286525",
+    "id": "1022792",
+    "name": "6th & Kenmore (Chapman Market)",
+    "phoneNumber": "2133680415",
+    "coordinates": {
+        "latitude": 34.063727,
+        "longitude": -118.297064
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "3465 W. 6th Street",
+        "streetAddressLine2": "30 & 40",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900202567"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 8:00 PM",
+    "warnings": [],
+    "addressLines": ["3465 W. 6th Street", "30 & 40", "Los Angeles, CA 90020"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "6:00 AM to 8:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "SQ",
+        "name": "tbd"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "CS",
+        "name": "tbd - Coffee Scale"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "6th-kenmore-chapman-market-3465-w-6th-street-los-angeles-ca-900202567-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "17413-168644",
+    "id": "91220",
+    "name": "Figueroa & Exposition",
+    "phoneNumber": "213-749-9302",
+    "coordinates": {
+        "latitude": 34.018589,
+        "longitude": -118.281769
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "3584 S. Figueroa St.",
+        "streetAddressLine2": "#1B",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900074313"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 5:00 PM",
+    "warnings": [],
+    "addressLines": ["3584 S. Figueroa St.", "#1B", "Los Angeles, CA 90007"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 10-13 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "5:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "5:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "5:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "5:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "5:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "5:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "5:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "RW",
+        "name": "My Starbucks Rewards"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "figueroa-exposition-3584-s-figueroa-st-los-angeles-ca-900074313-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "17848-181484",
+    "id": "91227",
+    "name": "Wilshire & Normandie",
+    "phoneNumber": "(213) 382-3351",
+    "coordinates": {
+        "latitude": 34.061451,
+        "longitude": -118.299522
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "3450 Wilshire Blvd.",
+        "streetAddressLine2": null,
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900102208"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 6:00 PM",
+    "warnings": [],
+    "addressLines": ["3450 Wilshire Blvd.", "Los Angeles, CA 90010"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "6:00 AM to 6:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "6:30 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "6:30 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "wilshire-normandie-3450-wilshire-blvd-los-angeles-ca-900102208-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "9328-96241",
+    "id": "9948",
+    "name": "3rd & Gage, Los Angeles",
+    "phoneNumber": "323-265-4124",
+    "coordinates": {
+        "latitude": 34.033622,
+        "longitude": -118.184217
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "3853 E. 3rd Street",
+        "streetAddressLine2": "E",
+        "streetAddressLine3": null,
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900632403"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "temporarilyOffline"
+    },
+    "open": true,
+    "openStatusText": "Open until 12:00 AM",
+    "warnings": [],
+    "addressLines": ["3853 E. 3rd Street", "E", "Los Angeles, CA 90063"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "4:00 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "4:00 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "4:00 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "4:00 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "4:00 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "4:30 AM to 12:00 AM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "GO",
+        "name": "Starbucks Wi-Fi"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "CX",
+        "name": "Curbside"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "17",
+        "name": "Outdoor"
+    }, {
+        "code": "DT",
+        "name": "Drive-Thru"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "WC",
+        "name": "Wireless Charging"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "3rd-gage-los-angeles-3853-e-3rd-street-los-angeles-ca-900632403-us"
+}, {
+    "recommendation": {
+        "isUsual": false
+    },
+    "storeNumber": "5911-34399",
+    "id": "15618",
+    "name": "Wilshire & Serrano",
+    "phoneNumber": "213-383-5370",
+    "coordinates": {
+        "latitude": 34.061435,
+        "longitude": -118.30632
+    },
+    "regulations": [],
+    "address": {
+        "streetAddressLine1": "3680 Wilshire Blvd.",
+        "streetAddressLine2": "102",
+        "streetAddressLine3": "Aroma Wilshire Center",
+        "city": "Los Angeles",
+        "countrySubdivisionCode": "CA",
+        "countryCode": "US",
+        "postalCode": "900102707"
+    },
+    "timeZoneInfo": {
+        "currentTimeOffset": -480,
+        "windowsTimeZoneId": "Pacific Standard Time",
+        "olsonTimeZoneId": "GMT-07:00 America/Los_Angeles"
+    },
+    "brandName": "Starbucks",
+    "ownershipTypeCode": "CO",
+    "curbside": {
+        "state": "notSupported"
+    },
+    "open": true,
+    "openStatusText": "Open until 5:00 PM",
+    "warnings": [],
+    "addressLines": ["3680 Wilshire Blvd.", "102", "Los Angeles, CA 90010"],
+    "mop": {
+        "ready": true,
+        "wait": "Prep time: 6-9 min"
+    },
+    "schedule": [{
+        "dayName": "Today",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Tomorrow",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Wednesday",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Thursday",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Friday",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Saturday",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }, {
+        "dayName": "Sunday",
+        "hours": "6:00 AM to 5:00 PM",
+        "open": true,
+        "holiday": ""
+    }],
+    "features": [{
+        "code": "WA",
+        "name": "Oven-warmed Food"
+    }, {
+        "code": "WF",
+        "name": "Wireless Hotspot"
+    }, {
+        "code": "VS",
+        "name": "Verismo"
+    }, {
+        "code": "CD",
+        "name": "Mobile Payment"
+    }, {
+        "code": "DR",
+        "name": "Redeem Rewards"
+    }, {
+        "code": "LB",
+        "name": "LaBoulange"
+    }, {
+        "code": "XO",
+        "name": "Mobile Order and Pay"
+    }, {
+        "code": "MX",
+        "name": "Music Experience"
+    }, {
+        "code": "NB",
+        "name": "Nitro Cold Brew"
+    }, {
+        "code": "BE",
+        "name": "Blonde Espresso"
+    }, {
+        "code": "SE",
+        "name": "Non-SVC MOP"
+    }, {
+        "code": "16",
+        "name": "In store"
+    }, {
+        "code": "LU",
+        "name": "Lunch"
+    }, {
+        "code": "PS",
+        "name": "Playbook Store System"
+    }, {
+        "code": "UC",
+        "name": "tbd - UCP"
+    }, {
+        "code": "UE",
+        "name": "tbd - Uber Eats"
+    }],
+    "slug": "wilshire-serrano-3680-wilshire-blvd-aroma-wilshire-center-los-angel"
+}]
